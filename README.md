@@ -17,7 +17,3 @@ SHA-256 sums and an Ed25519 signature.
 - **Offline by default.** No account, no telemetry, no network call you did not ask for.
 - **Reproducible builds.** Locked dependencies, hashed inputs, a build that fails loudly.
 - **Small tools.** One binary, one config file, tests that run on a clean machine.
-
-## Elsewhere
-
-Nothing else is public yet.
